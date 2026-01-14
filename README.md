@@ -9,9 +9,6 @@
     <a href="https://www.linkedin.com/in/enzo-martins-nobre/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:enzo.nobre.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
   </div>
 </div>
 
@@ -57,3 +54,8 @@ My technical focus spans from **Microservices** and **Event-Driven** architectur
 * **Portuguese:** Native
 * **English:** Proficient (C1)
 * **Spanish:** Intermediate
+
+---
+
+## Contact
+Feel free to reach out to me via email: **enzo.nobre.dev@gmail.com**
