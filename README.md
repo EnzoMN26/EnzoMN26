@@ -18,7 +18,7 @@
 
 I am a **Computer Scientist** (PUCRS) and a Creative Software Engineer with strong problem-solving skills and a passion for continuous learning and skill development. Highly experienced in teamwork and communication, I am always ready to take on new challenges and contribute effectively by delivering efficient solutions in any situation.
 
-My technical focus spans from **Microservices** and **Event-Driven** architecture to the implementation of Agile practices and **Clean Architecture**.
+My technical focus spans from **Microservices** architecture to the implementation of Agile practices and **Clean Architecture**.
 
 ---
 
